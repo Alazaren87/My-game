@@ -1,0 +1,9 @@
+.game-form {
+    width: 400px;
+    margin: auto;
+}
+#status {
+    font-size: 25px;
+    color: red;
+}
+
